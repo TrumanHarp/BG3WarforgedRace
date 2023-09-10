@@ -1,0 +1,15 @@
+// === CL_Passive_KeenSenses.txt ===
+new entry "CL_Passive_KeenSenses"
+type "PassiveData"
+data "Boosts" "ProficiencyBonus(Skill, Preception)"
+data "Icon" "PassiveFeature_Darkvision"
+data "DisplayName" "hb6fb87d2g3ad0g4a43ga8d2g035790d59ebb"
+data "Description" "h6f280908g2afbg45fcga2f9ge6136d5b5604"
+
+// === CL_Passive_NecroticResistance.txt ===
+new entry "CL_Passive_NecroticResistance"
+type "PassiveData"
+data "DisplayName" "hd8d6585ag457fg4303ga0afgcb5dc1640883"
+data "Description" "hae4dae10gf43eg4dbagb15ag0fd074c0f0ff"
+data "Icon" "GenericIcon_DamageType_Necrotic"
+data "Boosts" "Resistance(Necrotic, Resistant)"

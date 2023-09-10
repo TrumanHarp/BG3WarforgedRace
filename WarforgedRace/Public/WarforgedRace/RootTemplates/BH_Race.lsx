@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="0afc7085-519e-4763-9c19-a86f9c05e681" />
+					<attribute id="Name" type="LSString" value="BASE_Warforged_Male" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="06e49598-ead4-4088-9915-6176a388bee1" />
+					<attribute id="Race" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d1b288f0-1d33-4995-9134-8349f30ca712" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+                <node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a9f7779a-60db-42d8-ae77-aaa71469265b" />
+					<attribute id="Name" type="LSString" value="BASE_Warforged_Female" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c9df4869-86a5-455b-b4f5-9ad0d178c4ad" />
+					<attribute id="Race" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d1b288f0-1d33-4995-9134-8349f30ca712" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+                <node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="514f4584-44f7-40f8-a7e9-e6a44028ce5b" />
+					<attribute id="Name" type="LSString" value="BH_Warforged_Male_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0afc7085-519e-4763-9c19-a86f9c05e681" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="f0c009b2-7868-784e-f2fc-dde5ac934aba-_(Icon_Elf_Male)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfMale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="133ee101-c245-4f40-91f3-4047a72e582e" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="f7af9f10-cd33-3b88-e96a-d52952e81f5b" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+                <node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="1a011a97-a8fa-4856-b21e-e50943302ecc" />
+					<attribute id="Name" type="LSString" value="BH_Warforged_Male_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="514f4584-44f7-40f8-a7e9-e6a44028ce5b" />
+					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-9ea9-298e38cd111a" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="58f907a5-c183-4453-a733-b22e9f9c7c85" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-00a7-e9be20969773" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a8a5155e-71b1-4ca3-9260-4802f5aa7880" />
+					<attribute id="Name" type="LSString" value="BH_Warforged_Female_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a9f7779a-60db-42d8-ae77-aaa71469265b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="dd076ca3-a90d-4f5d-900f-29f183083303" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="e1254a4e-3d52-76c2-7b19-52e93941b6dd" />
+					<children>
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="bc387a86-3a30-4414-a269-92c9c10d7a5c" />
+					<attribute id="Name" type="LSString" value="BH_Warforged_Female_Player_Strong" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a8a5155e-71b1-4ca3-9260-4802f5aa7880" />
+					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-9bb3-f38b0fa1548b" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e3c15d18-ea88-4bc8-93e9-e1604d248bd5" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-00a7-e9be20969773" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="60a09888-6d7f-4c82-a383-ce996aff7f38" />
+					<attribute id="Name" type="LSString" value="BH_Warforged_Experimental_Fifth" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0afc7085-519e-4763-9c19-a86f9c05e681" />
+					<attribute id="Icon" type="FixedString" value="2acd2062-1c34-6890-0494-72c1df17973f-_(Icon_Dwarf_Male)" />
+					<attribute id="EquipmentRace" type="guid" value="abf674d2-2ea4-4a74-e0ad-5412f629839f" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="69578816-51ff-456f-9773-36514745dece" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Dwarf_Male" />
+					<children>
+						<!--<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-00a7-e9be20969773" />
+								</node>
+							</children>
+						</node>-->
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Skirmisher Warforged|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h77f66d01gb364g4c9bg80e0g62c455113c16" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hb5a0fe09gcccdg4ca6gb4a0g5a9ab0201df6" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="BH_SKIRMISHERWARFORGED" />
+			<attribute id="UUID" type="guid" value="fc5d4570-a27d-4317-a59b-4d8afb96366a" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

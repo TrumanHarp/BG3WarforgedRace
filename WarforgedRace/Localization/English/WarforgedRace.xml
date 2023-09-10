@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h2891011fg37eag46b1gb877gb42d32d9d126" version="1">Warforged</content>
+	<content contentuid="hb31f1e11geb84g43dagb5bdg42fc1572ac6f" version="1">Built to fight, Warforged are made from wood and metal, but they can feel pain and emotion. Warforged can be a steadfast ally or a cold-hearted killing machine./</content>
+	<content contentuid="h778eef2bged82g4d90gb658gbec02152ca72" version="1">Envoy Warforged</content>
+	<content contentuid="h8dbb17begf11cg4e3aga2ecg3d535e874fa3" version="1">Envoy Warforged are built with a certain specialized function in mind. They are the rarest of warforged, and are often very unique.</content>
+	<content contentuid="h4ecbcc1ag6081g4c6dgaebeg0a06b6ec29ff" version="1">Juggernaut Warforged</content>
+	<content contentuid="h92eb4905g9d50g4b2dg89b2g9818fc04a31c" version="1">Juggernaut Warforged are imposing war machines built for combat and raw power.</content>
+	<content contentuid="hb5a0fe09gcccdg4ca6gb4a0g5a9ab0201df6" version="1">Skirmisher Warforged</content>
+	<content contentuid="h77f66d01gb364g4c9bg80e0g62c455113c16" version="1">Skirmisher Warforged are built to quickly and quietly scout a battle and outmaneuver their oponents. They are nimble and designed for speed.</content>
+	<content contentuid="hd36c6484g8234g44eagb212g38881aa127d7" version="1">Sworn to the Raven Queen's service, the mysterious Shadar-Kai originate from Shadowfel. Once fey, they have lost their vibrance and emotion.</content>
+	<content contentuid="h8564da85gda61g446cga35bg422ca4edbcb8" version="1">Racial Proficiency</content>
+	<content contentuid="h392ef40eg6fd8g4aa2g9e6bg77a98b1a5221" version="1">Uses of Racial Proficiency Bonus Features</content>
+    <content contentuid="he0015e6dgaec5g4d26g973dg874f83725214" version="1">Blessing of the Raven Queen</content>
+	<content contentuid="h023da3ecge10bg46adg8824g45937b337ad0" version="1">Magically teleport up to 9m to an unoccupied space you can see.</content>
+	<content contentuid="h87421cb8g4fdag489bg9d7fg8db9be1f16f9" version="1">This creature has resistance to all damage until the start of its next turn.</content>
+	<content contentuid="h2240f1f4gb92fg4b58g9aaegc8b010a5637b" version="1">You gain resistance to all damage until the start of your next turn after using Blessing of the Raven Queen.</content>
+	<content contentuid="hd8d6585ag457fg4303ga0afgcb5dc1640883" version="1">Necrotic Resistance</content>
+	<content contentuid="hae4dae10gf43eg4dbagb15ag0fd074c0f0ff" version="1">You have Resistance to Necrotic Damage, and take half as much damage from Necrotic attacks.</content>
+	
+</contentList>

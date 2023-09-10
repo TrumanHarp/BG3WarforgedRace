@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Envoy Warforged|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h8dbb17begf11cg4e3aga2ecg3d535e874fa3" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h778eef2bged82g4d90gb658gbec02152ca72" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="BH_ENVOYWARFORGED" />
+			<attribute id="UUID" type="guid" value="a1ee5fca-391f-42f6-a464-7448acd60f0a" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
