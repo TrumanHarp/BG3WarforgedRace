@@ -17,6 +17,7 @@
         <node id="Progression">
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="BH_Warforged_Envoy"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Specialized_Design;BH_Mechanical_Comprehension;DarkvisionRangeMin(12)"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);SelectPassives(f21e6b94-44e8-4ae0-a6f1-0c81abac03a2,1,WeaponMasterProficiencies);AddSpells(f4bb7ffe-cd70-42cb-925b-a676e2eb11ca,,,,AlwaysPrepared)"/>
@@ -26,7 +27,7 @@
         <node id="Progression">
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="BH_Warforged_Juggernaut"/>
-          <attribute id="Boosts" type="LSString" value="Ability(Strength, 1)"/>
+          <attribute id="Boosts" type="LSString" value="Ability(Strength, 1);ActionResource(Movement,9,0)"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Powerful_Build;BH_Iron_Fists"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Selectors" type="LSString" value=""/>
