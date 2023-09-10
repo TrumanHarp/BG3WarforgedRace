@@ -41,3 +41,70 @@ data "DisplayName" "he0015e6dgaec5g4d26g973dg874f83725214"
 data "Description" "h87421cb8g4fdag489bg9d7fg8db9be1f16f9"
 data "TickType" "StartTurn"
 data "Boosts" "Resistance(Slashing, Resistant);Resistance(Bludgeoning, Resistant);Resistance(Piercing, Resistant);Resistance(Fire, Resistant);Resistance(Cold, Resistant);Resistance(Psychic, Resistant);Resistance(Force, Resistant);Resistance(Thunder, Resistant);Resistance(Lightning, Resistant);Resistance(Poison, Resistant);Resistance(Acid, Resistant);Resistance(Radiant, Resistant)"
+
+// === BH_Steel_Construction.txt ===
+new entry "BH_Steel_Construction"
+type "PassiveData"
+data "DisplayName" "hd658f41eg5a77g4c4dgac19gf6b0680d9380"
+data "Description" "hb90b0c2eg84fbg4f68gb714g68e5cbc42841"
+data "Icon" "PassiveFeature_FightingStyle_Defens"
+data "Boosts" "AC(1)"
+
+// === BH_Constructed_Resilience.txt ===
+new entry "BH_Constructed_Resilience"
+type "PassiveData"
+data "DisplayName" "hfffe5efdgf37bg45adg8d8egedcb45308321"
+data "Description" "h1688aedbg0cd6g4986g9795g850c10d55388"
+data "Icon" "Spell_Abjuration_ProtectionFromPoison"
+data "Boosts" "Resistance(Poison,Resistant);Tag(POISONED_ADV)"
+
+// === BH_Forged_Disposition.txt ===
+new entry "BH_Forged_Disposition"
+type "PassiveData"
+data "DisplayName" "hefe1f62fg7d17g4687g8d33g08434e554546"
+data "Description" "h86aa6422g9094g4cb8g92ceg8ddd26695298"
+data "Properties" "ForceShowInCC"
+data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
+data "Boosts" "StatusImmunity(SG_Disease);StatusImmunity(SLEEP)"
+
+// ===BH_Specialized_Design.txt ===
+new entry "BH_Specialized_Design"
+type  "PassiveData"
+data "DisplayName" "h24cb131egd047g4faegae15ge217f4a635cd"
+data "Description" "h74597db2gd877g4bd0ga0cag023826996ca2"
+data "Icon" "PassiveFeature_ExpertDivination"
+data "Boosts" ""
+
+// ===BH_Mechanical_Comprehension.txt ===
+new entry "BH_Mechanical_Comprehension"
+type  "PassiveData"
+data "DisplayName" "heb39fd33geeb4g4df1g8d96ga67f04ebbbd7"
+data "Description" "ha24a25f7ge581g42c0g9d04g3ec97be6712e"
+data "Icon" "PassiveFeature_FocusedConjuration"
+data "Boosts" ""
+
+// ===BH_Powerful_Build.txt ===
+new entry "BH_Powerful_Build"
+type  "PassiveData"
+data "DisplayName" "hd34edbafg8f44g4d01g8ef3g0616010466b9"
+data "Description" "h2fbcb42cg99bcg4d57gb1b0g90d33325d9c1"
+data "Icon" "PassiveFeature_Generic_Tactical"
+data "Boosts" "CarryCapacityMultiplier(1.40)"
+
+
+// ===BH_Iron_Fists.txt ===
+new entry "BH_Iron_Fists"
+type  "PassiveData"
+data "DisplayName" "h51f4c727g4ac0g44begbf14gdea9d55704e1"
+data "Description" "hcd06304egb67bg4101ga10fge17e081d7698;1"
+data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
+data "DescriptionParams" "DealDamage(1d4+StrengthModifier, Bludgeoning)"
+data "Boosts" "CharacterUnarmedDamage(1d4+StrengthModifier, Bludgeoning)"
+
+// ===BH_.txt ===
+new entry "BH_"
+type  "PassiveData"
+data "DisplayName" ""
+data "Description" ""
+data "Icon" ""
+data "Boosts" ""

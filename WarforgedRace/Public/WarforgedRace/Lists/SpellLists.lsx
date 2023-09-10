@@ -9,6 +9,11 @@
           <attribute id="Spells" type="LSString" value="CL_Target_RavenQueenBlessing"/>
           <attribute id="UUID" type="guid" value="cdea5ca8-e43f-4830-a265-76fec11ab79a"/>
         </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Detect Thoughts"/>
+          <attribute id="Spells" type="LSString" value="Shout_DetectThoughts"/>
+          <attribute id="UUID" type="guid" value="f4bb7ffe-cd70-42cb-925b-a676e2eb11ca"/>
+      </node>
       </children>
     </node>
   </region>

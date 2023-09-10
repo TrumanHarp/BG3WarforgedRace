@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="333"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="ExactMatch" type="FixedString" value="StatusImmunity(SG_Disease);StatusImmunity(SLEEP)"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="BH_Forged_Disposition"/>
+                    <attribute id="UUID" type="guid" value="51a81357-fcbe-4e04-b321-928ef9ce3e9c "/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="BH_Forged_Disposition"/>
+                    <attribute id="Type" type="FixedString" value="Tag"/>
+                    <attribute id="UUID" type="guid" value="ce636930-8716-47de-9498-48382c08283e"/> <!--13e99d93-e8a8-42ad-9db2-ff409c449267-->
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
