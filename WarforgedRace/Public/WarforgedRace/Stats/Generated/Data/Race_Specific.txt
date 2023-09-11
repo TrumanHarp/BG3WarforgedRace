@@ -47,7 +47,7 @@ new entry "BH_Steel_Construction"
 type "PassiveData"
 data "DisplayName" "hd658f41eg5a77g4c4dgac19gf6b0680d9380"
 data "Description" "hb90b0c2eg84fbg4f68gb714g68e5cbc42841"
-data "Icon" "PassiveFeature_FightingStyle_Defens"
+data "Icon" "PassiveFeature_FightingStyle_Defense"
 data "Boosts" "AC(1)"
 
 // === BH_Constructed_Resilience.txt ===
@@ -65,7 +65,7 @@ data "DisplayName" "hefe1f62fg7d17g4687g8d33g08434e554546"
 data "Description" "h86aa6422g9094g4cb8g92ceg8ddd26695298"
 data "Properties" "ForceShowInCC"
 data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
-data "Boosts" "StatusImmunity(SG_Disease);StatusImmunity(SLEEP)"
+data "Boosts" ""
 
 // ===BH_Specialized_Design.txt ===
 new entry "BH_Specialized_Design"
@@ -101,10 +101,10 @@ data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
 data "DescriptionParams" "DealDamage(1d4+StrengthModifier, Bludgeoning)"
 data "Boosts" "CharacterUnarmedDamage(1d4+StrengthModifier, Bludgeoning)"
 
-// ===BH_.txt ===
-new entry "BH_"
+// ===BH_Light_Step.txt ===
+new entry "BH_Light_Step"
 type  "PassiveData"
-data "DisplayName" ""
-data "Description" ""
-data "Icon" ""
+data "DisplayName" "hffad4a22g6b10g4822gb364gabb372c5308b"
+data "Description" "h3e84cd99g0b20g44e5g9773g9f387dfa6cbf"
+data "Icon" "Spell_Conjuration_MistyStep"
 data "Boosts" ""

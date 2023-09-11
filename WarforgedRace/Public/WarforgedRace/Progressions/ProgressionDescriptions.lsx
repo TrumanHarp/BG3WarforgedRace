@@ -5,6 +5,48 @@
         <node id="root">
             <children>
                 <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb31f1e11geb84g43dagb5bdg42fc1572ac6f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2891011fg37eag46b1gb877gb42d32d9d126" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="88846a0c-429e-406e-9c51-da2b518fee36"/>
+                    <attribute id="Type" type="FixedString" value="BH_Warforged"/>
+                    <attribute id="UUID" type="guid" value="dd5f7c42-f185-4656-9f2a-06ade49388a4"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb31f1e11geb84g43dagb5bdg42fc1572ac6f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2891011fg37eag46b1gb877gb42d32d9d126" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
+                    <attribute id="Type" type="FixedString" value="BH_Warforged_Envoy"/>
+                    <attribute id="UUID" type="guid" value="bc65b7dd-fb26-4171-8319-32247bb69701"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb31f1e11geb84g43dagb5bdg42fc1572ac6f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2891011fg37eag46b1gb877gb42d32d9d126" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="2f1dc338-1b67-4f84-9898-b83319680bd2"/>
+                    <attribute id="Type" type="FixedString" value="BH_Warforged_Juggernaut"/>
+                    <attribute id="UUID" type="guid" value="d50cfe61-9aac-40a7-b198-afdfcccb2504"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb31f1e11geb84g43dagb5bdg42fc1572ac6f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2891011fg37eag46b1gb877gb42d32d9d126" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
+                    <attribute id="Type" type="FixedString" value="BH_Warforged_Skirmisher"/>
+                    <attribute id="UUID" type="guid" value="317c5a7b-a932-440b-b2b2-27154b19ff1e"/>
+                </node>
+                
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h3bb11390gc425g4433ga541g0c839090e973" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha0bb1044gdf6cg4c18gbbe8g16935dae77ab" version="5"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(Movement,9,0)"/>
+                    <attribute id="UUID" type="guid" value="49ca481b-2525-4971-81de-a51b2570bbe9"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb4843224gd80eg4a26g9bcdgf9cd812ed3b0" version="6"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha862c94eg92a9g471fga23dg15fbf27ff537" version="2"/>
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(Movement,10.5,0)"/>
+                    <attribute id="UUID" type="guid" value="62475be0-09ac-442c-b73f-76288bc220bd"/>
+                </node>
+                
+                <node id="ProgressionDescription">
                     <attribute id="ExactMatch" type="FixedString" value="StatusImmunity(SG_Disease);StatusImmunity(SLEEP)"/>
                     <attribute id="Hidden" type="bool" value="true"/>
                     <attribute id="PassivePrototype" type="FixedString" value="BH_Forged_Disposition"/>
@@ -16,6 +58,9 @@
                     <attribute id="Type" type="FixedString" value="Tag"/>
                     <attribute id="UUID" type="guid" value="ce636930-8716-47de-9498-48382c08283e"/> <!--13e99d93-e8a8-42ad-9db2-ff409c449267-->
                 </node>
+                
+                
+                
             </children>
         </node>
     </region>

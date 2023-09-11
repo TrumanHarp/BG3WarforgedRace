@@ -2311,7 +2311,7 @@
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="BH_Warforged_Skirmisher"/>
                     <attribute id="ParentGuid" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value=""/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Construct"/>
                     <attribute id="UUID" type="guid" value="30fc3cd6-e296-49d3-a081-200a3276f6dc"/>
                     <children>
