@@ -56,10 +56,26 @@
                     <attribute id="Hidden" type="bool" value="true"/>
                     <attribute id="PassivePrototype" type="FixedString" value="BH_Forged_Disposition"/>
                     <attribute id="Type" type="FixedString" value="Tag"/>
-                    <attribute id="UUID" type="guid" value="ce636930-8716-47de-9498-48382c08283e"/> <!--13e99d93-e8a8-42ad-9db2-ff409c449267-->
+                    <attribute id="UUID" type="guid" value="ce636930-8716-47de-9498-48382c08283e"/>
                 </node>
                 
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h029ce8fdg6059g4cf7g8799ge469ee58f849" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he3e08e36ge406g4ec9ga33eg6bbbcd83c18e" version="2"/>
+                    <attribute id="ProgressionTableId" type="guid" value="2f1dc338-1b67-4f84-9898-b83319680bd2"/>
+                    <attribute id="SelectorId" type="FixedString" value="HighCantrip"/>
+                    <attribute id="Type" type="FixedString" value="HighElf"/>
+                    <attribute id="UUID" type="guid" value="6524e528-9bca-45ad-889d-3c56187e784a"/>
+                </node>
                 
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8b7ac7e2g5812g40e9g9a1ag4087f7600025" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdff402c2ge14cg445egb18bgc1ce7bf9074d" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
+                    <attribute id="SelectorId" type="FixedString" value="BH_TESTSELECTOR"/>
+                    <attribute id="Type" type="FixedString" value="HighElf"/>
+                    <attribute id="UUID" type="guid" value="0ebc4ddd-ad06-43a6-8106-75475f12aabc"/>
+                </node>
                 
             </children>
         </node>

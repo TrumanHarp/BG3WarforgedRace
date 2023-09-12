@@ -20,7 +20,7 @@
           <attribute id="Boosts" type="LSString" value=""/>
           <attribute id="PassivesAdded" type="LSString" value="Darkvision;BH_Specialized_Design;BH_Mechanical_Comprehension"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);SelectPassives(f21e6b94-44e8-4ae0-a6f1-0c81abac03a2,1,WeaponMasterProficiencies);AddSpells(f4bb7ffe-cd70-42cb-925b-a676e2eb11ca,,,,AlwaysPrepared);SelectEquipment(aab8c5b5-eacf-4867-8e5f-bd4de3a9132e,1,BardInstrument)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);AddSpells(f4bb7ffe-cd70-42cb-925b-a676e2eb11ca,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,,3)"/> <!--SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectPassives(f21e6b94-44e8-4ae0-a6f1-0c81abac03a2,1,WeaponMasterProficiencies);-->
           <attribute id="TableUUID" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
           <attribute id="UUID" type="guid" value="15711f95-ee11-43be-b1bb-d09b8a100ce7"/>
         </node>
@@ -30,7 +30,7 @@
           <attribute id="Boosts" type="LSString" value="Ability(Strength, 1)"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Powerful_Build;BH_Iron_Fists"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,HighElfCantrip,Intelligence)"/> <!--SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,2,WarlockInvocations)-->
+          <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,Strangenamelolf,Intelligence)"/> <!--SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,2,WarlockInvocations)-->
           <attribute id="TableUUID" type="guid" value="2f1dc338-1b67-4f84-9898-b83319680bd2"/>
           <attribute id="UUID" type="guid" value="7b47d8cd-8b33-4047-af28-09e399637ace"/>
         </node>
@@ -40,12 +40,26 @@
           <attribute id="Boosts" type="LSString" value="Ability(Dexterity, 1);ActionResource(Movement,10.5,0)"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Light_Step"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value=""/> <!--SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,2,WarlockInvocations)-->
+          <!-- <attribute id="Selectors" type="LSString" value=""/> SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,2,WarlockInvocations)-->
+          <attribute id="Selectors" type="LSString" value="SelectPassives(3ad50820-13be-4747-aab0-fcb13b71502b,2,HighElfCantrip)"/>
           <attribute id="TableUUID" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
           <attribute id="UUID" type="guid" value="b5d74374-e97f-438f-883a-9fc47b7c2a18"/>
         </node>
 
 
+
+        <!-- SHAREDDEV HIGHELFCANTRIP
+          <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="HighHalfElf"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,HighElfCantrip,Intelligence)"/>
+                    <attribute id="TableUUID" type="guid" value="9efb7794-dc6f-45f3-8cf9-74ad5286c792"/>
+                    <attribute id="UUID" type="guid" value="43bfa29a-fd63-4f47-850e-6714f0333022"/>
+                </node> -->
+
+        
       </children>
     </node>
   </region>
