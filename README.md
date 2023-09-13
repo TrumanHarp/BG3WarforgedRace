@@ -43,10 +43,10 @@ This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLea
 
 [![Compatible with Laughing Leader's Baldur's Gate 3 Mod Manager](https://i.imgur.com/qtdx2Yq.png)](https://github.com/LaughingLeader/BG3ModManager)
 
-## Notes
 ### Acknowledgments
 - Larian Software, they made Baldur's Gate 3
 - The official [Larian Studio's Discord](https://discord.com/invite/larianstudios) and the modding community in it
 - [ShinyHobo](https://github.com/ShinyHobo) for their modding multitool
+- [Norbyte](https://github.com/Norbyte/lslib/releases) for creating the lslib ExportTool
 - [TheRealDjmr](https://github.com/TheRealDjmr/BG3ImprovedUI) for the ImprovedUI mod as well as additional help
-- Alana for the creation of the Mod Manager Compatibility Images
+- labotor's Satyr race mod for inspiration
