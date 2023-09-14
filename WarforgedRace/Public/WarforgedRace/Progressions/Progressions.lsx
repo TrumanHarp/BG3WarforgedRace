@@ -30,7 +30,7 @@
           <attribute id="Boosts" type="LSString" value="Ability(Strength, 1)"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Powerful_Build;BH_Iron_Fists"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,Strangenamelolf,Intelligence)"/> <!--SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,2,WarlockInvocations)-->
+          <attribute id="Selectors" type="LSString" value=""/>
           <attribute id="TableUUID" type="guid" value="2f1dc338-1b67-4f84-9898-b83319680bd2"/>
           <attribute id="UUID" type="guid" value="7b47d8cd-8b33-4047-af28-09e399637ace"/>
         </node>
@@ -40,7 +40,6 @@
           <attribute id="Boosts" type="LSString" value="Ability(Dexterity, 1);ActionResource(Movement,10.5,0)"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Light_Step"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <!-- <attribute id="Selectors" type="LSString" value=""/> SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,2,WarlockInvocations)-->
           <attribute id="Selectors" type="LSString" value=""/>
           <attribute id="TableUUID" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
           <attribute id="UUID" type="guid" value="b5d74374-e97f-438f-883a-9fc47b7c2a18"/>
