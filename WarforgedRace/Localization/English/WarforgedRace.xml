@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h2891011fg37eag46b1gb877gb42d32d9d126" version="1">Warforged</content>
-	<content contentuid="hb31f1e11geb84g43dagb5bdg42fc1572ac6f" version="1">Built to fight, Warforged are made from wood and metal, but they can feel pain and emotion. Warforged can be a steadfast ally or a cold-hearted killing machine./</content>
+	<content contentuid="hb31f1e11geb84g43dagb5bdg42fc1572ac6f" version="1">Built to fight, Warforged are made from wood and metal, but they can feel pain and emotion. Warforged can be a steadfast ally or a cold-hearted killing machine.</content>
 	<content contentuid="h778eef2bged82g4d90gb658gbec02152ca72" version="1">Envoy Warforged</content>
 	<content contentuid="h8dbb17begf11cg4e3aga2ecg3d535e874fa3" version="1">Envoy Warforged are built with a certain specialized function in mind. They are the rarest of warforged, and are often very unique.</content>
 	<content contentuid="h4ecbcc1ag6081g4c6dgaebeg0a06b6ec29ff" version="1">Juggernaut Warforged</content>
@@ -15,15 +15,15 @@
 	<content contentuid="hefe1f62fg7d17g4687g8d33g08434e554546" version="1">Forged Disposition</content>
 	<content contentuid="h86aa6422g9094g4cb8g92ceg8ddd26695298" version="1">You are immune to disease, and magic can't put you to sleep.</content>
 	<content contentuid="h24cb131egd047g4faegae15ge217f4a635cd" version="1">Specialized Design</content>
-	<content contentuid="h74597db2gd877g4bd0ga0cag023826996ca2" version="1">One ability score increases by 1. Gain a skill proficiency and weapon proficiency of your choice.</content>
+	<content contentuid="h74597db2gd877g4bd0ga0cag023826996ca2" version="1">Increase one ability score by 1. Gain a skill proficiency and weapon proficiency of your choice.</content>
 	<content contentuid="heb39fd33geeb4g4df1g8d96ga67f04ebbbd7" version="1">Mechanical Comprehension</content>
-	<content contentuid="ha24a25f7ge581g42c0g9d04g3ec97be6712e" version="1">Gain Darkvision and cast Detect Thoughts after a long rest.</content>
+	<content contentuid="ha24a25f7ge581g42c0g9d04g3ec97be6712e" version="1">Gain Darkvision and cast Detect Thoughts once per long rest.</content>
 	<content contentuid="hd34edbafg8f44g4d01g8ef3g0616010466b9" version="1">Powerful Build</content>
 	<content contentuid="h2fbcb42cg99bcg4d57gb1b0g90d33325d9c1" version="1">Gain +1 Strength. Increases carry capacity by 40%.</content>
 	<content contentuid="h51f4c727g4ac0g44begbf14gdea9d55704e1" version="1">Iron Fists</content>
 	<content contentuid="hcd06304egb67bg4101ga10fge17e081d7698" version="1">When you make an unarmed strike, deal an additional [1] bludgeoning damage.</content>
 	<content contentuid="hffad4a22g6b10g4822gb364gabb372c5308b" version="1">Light Step</content>
-	<content contentuid="h3e84cd99g0b20g44e5g9773g9f387dfa6cbf" version="1">Gain +1 Dexterity, increase movevement speed by 1.5m/5ft, and add your proficiency bonus to stealth checks.</content>
+	<content contentuid="h3e84cd99g0b20g44e5g9773g9f387dfa6cbf" version="1">Gain +1 Dexterity. Add your proficiency bonus to stealth checks.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
