@@ -20,7 +20,7 @@
           <attribute id="Boosts" type="LSString" value=""/>
           <attribute id="PassivesAdded" type="LSString" value="Darkvision;BH_Specialized_Design;BH_Mechanical_Comprehension"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);AddSpells(f4bb7ffe-cd70-42cb-925b-a676e2eb11ca,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,,3)"/> <!--SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectPassives(f21e6b94-44e8-4ae0-a6f1-0c81abac03a2,1,WeaponMasterProficiencies);-->
+          <attribute id="Selectors" type="LSString" value="SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);AddSpells(f4bb7ffe-cd70-42cb-925b-a676e2eb11ca,,,,AlwaysPrepared)"/> <!--SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectPassives(f21e6b94-44e8-4ae0-a6f1-0c81abac03a2,1,WeaponMasterProficiencies);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,,3);-->
           <attribute id="TableUUID" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
           <attribute id="UUID" type="guid" value="15711f95-ee11-43be-b1bb-d09b8a100ce7"/>
         </node>
@@ -41,7 +41,7 @@
           <attribute id="PassivesAdded" type="LSString" value="BH_Light_Step"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <!-- <attribute id="Selectors" type="LSString" value=""/> SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,2,WarlockInvocations)-->
-          <attribute id="Selectors" type="LSString" value="SelectPassives(3ad50820-13be-4747-aab0-fcb13b71502b,2,HighElfCantrip)"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(b6fa346c-aba3-486f-ace3-47971c692469,1,BH_AbilityBoost)"/>
           <attribute id="TableUUID" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
           <attribute id="UUID" type="guid" value="b5d74374-e97f-438f-883a-9fc47b7c2a18"/>
         </node>

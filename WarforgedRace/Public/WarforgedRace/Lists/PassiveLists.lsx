@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_TwoWeaponFighting"/>
-                    <attribute id="UUID" type="guid" value="3ad50820-13be-4747-aab0-fcb13b71502b"/>
+                    <attribute id="Passives" type="LSString" value="BH_StrengthBoost,BH_DexterityBoost,BH_ConstitutionBoost,BH_IntelligenceBoost,BH_WisdomBoost,BH_CharismaBoost"/>
+                    <attribute id="UUID" type="guid" value="b6fa346c-aba3-486f-ace3-47971c692469"/>
                 </node>
             </children>
         </node>
