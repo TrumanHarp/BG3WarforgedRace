@@ -1,15 +1,47 @@
-// === CL_Passive_KeenSenses.txt ===
-new entry "CL_Passive_KeenSenses"
+// === BH_StrengthBoost.txt ===
+new entry "BH_StrengthBoost"
 type "PassiveData"
-data "Boosts" "ProficiencyBonus(Skill, Preception)"
-data "Icon" "PassiveFeature_Darkvision"
-data "DisplayName" "hb6fb87d2g3ad0g4a43ga8d2g035790d59ebb"
-data "Description" "h6f280908g2afbg45fcga2f9ge6136d5b5604"
+data "DisplayName" "h6c83537fg6358g41e0g8a18g32cc8316ced2_1"
+data "Description" "h6c83537fg6358g41e0g8a18g32cc8316ced2_1"
+data "Icon" ""
+data "Boosts" "Ability(Strength, 1)"
 
-// === CL_Passive_NecroticResistance.txt ===
-new entry "CL_Passive_NecroticResistance"
+// === BH_DexterityBoost.txt ===
+new entry "BH_DexterityBoost"
 type "PassiveData"
-data "DisplayName" "hd8d6585ag457fg4303ga0afgcb5dc1640883"
-data "Description" "hae4dae10gf43eg4dbagb15ag0fd074c0f0ff"
-data "Icon" "GenericIcon_DamageType_Necrotic"
-data "Boosts" "Resistance(Necrotic, Resistant)"
+data "DisplayName" "h6c83537fg6358g41e0g8a18g32cc8316ced2_2"
+data "Description" "h6c83537fg6358g41e0g8a18g32cc8316ced2_2"
+data "Icon" ""
+data "Boosts" "Ability(Dexterity, 1)"
+
+// === BH_ConstitutionBoost.txt ===
+new entry "BH_ConstitutionBoost"
+type "PassiveData"
+data "DisplayName" "h6c83537fg6358g41e0g8a18g32cc8316ced2_3"
+data "Description" "h6c83537fg6358g41e0g8a18g32cc8316ced2_3"
+data "Icon" ""
+data "Boosts" "Ability(Constitution, 1)"
+
+// === BH_IntelligenceBoost.txt ===
+new entry "BH_IntelligenceBoost"
+type "PassiveData"
+data "DisplayName" "h6c83537fg6358g41e0g8a18g32cc8316ced2_4"
+data "Description" "h6c83537fg6358g41e0g8a18g32cc8316ced2_4"
+data "Icon" ""
+data "Boosts" "Ability(Intelligence, 1)"
+
+// === BH_WisdomBoost.txt ===
+new entry "BH_WisdomBoost"
+type "PassiveData"
+data "DisplayName" "h6c83537fg6358g41e0g8a18g32cc8316ced2_5"
+data "Description" "h6c83537fg6358g41e0g8a18g32cc8316ced2_5"
+data "Icon" ""
+data "Boosts" "Ability(Wisdom, 1)"
+
+// === BH_CharismaBoost.txt ===
+new entry "BH_CharismaBoost"
+type "PassiveData"
+data "DisplayName" "h6c83537fg6358g41e0g8a18g32cc8316ced2_6"
+data "Description" "h6c83537fg6358g41e0g8a18g32cc8316ced2_6"
+data "Icon" ""
+data "Boosts" "Ability(Charisma, 1)"

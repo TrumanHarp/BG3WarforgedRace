@@ -4,11 +4,6 @@
   <region id="SpellLists">
     <node id="root">
       <children>
-        <node id="SpellList"> <!-- ShadarKai - NellsRelo -->
-          <attribute id="Comment" type="LSString" value="Raven Queen's Blessing Ability"/>
-          <attribute id="Spells" type="LSString" value="CL_Target_RavenQueenBlessing"/>
-          <attribute id="UUID" type="guid" value="cdea5ca8-e43f-4830-a265-76fec11ab79a"/>
-        </node>
         <node id="SpellList">
           <attribute id="Comment" type="LSString" value="Detect Thoughts"/>
           <attribute id="Spells" type="LSString" value="Shout_DetectThoughts"/>
