@@ -47,26 +47,20 @@
                 </node>
                 
                 <node id="ProgressionDescription">
-                    <attribute id="ExactMatch" type="FixedString" value="StatusImmunity(SG_Disease);StatusImmunity(SLEEP)"/>
-                    <attribute id="Hidden" type="bool" value="true"/>
-                    <attribute id="PassivePrototype" type="FixedString" value="BH_Forged_Disposition"/>
-                    <attribute id="UUID" type="guid" value="51a81357-fcbe-4e04-b321-928ef9ce3e9c "/>
-                </node>
-                <node id="ProgressionDescription">
-                    <attribute id="Hidden" type="bool" value="true"/>
-                    <attribute id="PassivePrototype" type="FixedString" value="BH_Forged_Disposition"/>
-                    <attribute id="Type" type="FixedString" value="Tag"/>
-                    <attribute id="UUID" type="guid" value="ce636930-8716-47de-9498-48382c08283e"/>
-                </node>
-                
-                <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h758a2bd7g45cfg4968gbcc6g7406e4d147f5" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7b97f4a0g2fc4g49bdgacb9g6cb67dcaef03" version="1"/>
                     <attribute id="ProgressionTableId" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
                     <attribute id="SelectorId" type="FixedString" value="BH_AbilityBoost"/>
                     <attribute id="UUID" type="guid" value="4f4fc889-3a85-401d-80e1-f1d76d8031e4"/>
                 </node>
-                
+
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h95e9cdc8g1f9eg4efbg8808g83d8ea1ce90f" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hed539740g32bfg4847gb963gf411f9edc6b3" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
+                    <attribute id="SelectorId" type="FixedString" value="BH_Envoy_Cantrip"/>
+                    <attribute id="UUID" type="guid" value="fe906697-b2c9-4e6f-b6e6-e6b4a0350bdd"/>
+                </node>
                 
             </children>
         </node>

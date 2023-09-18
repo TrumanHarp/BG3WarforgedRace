@@ -4,6 +4,7 @@ type "PassiveData"
 data "DisplayName" "hd658f41eg5a77g4c4dgac19gf6b0680d9380"
 data "Description" "hb90b0c2eg84fbg4f68gb714g68e5cbc42841"
 data "Icon" "PassiveFeature_FightingStyle_Defense"
+data "Properties" "Highlighted"
 data "Boosts" "AC(1)"
 
 // === BH_Constructed_Resilience.txt ===
@@ -12,6 +13,7 @@ type "PassiveData"
 data "DisplayName" "hfffe5efdgf37bg45adg8d8egedcb45308321"
 data "Description" "h1688aedbg0cd6g4986g9795g850c10d55388"
 data "Icon" "Spell_Abjuration_ProtectionFromPoison"
+data "Properties" "Highlighted"
 data "Boosts" "Resistance(Poison,Resistant);Tag(POISONED_ADV)"
 
 // === BH_Forged_Disposition.txt ===
@@ -19,9 +21,9 @@ new entry "BH_Forged_Disposition"
 type "PassiveData"
 data "DisplayName" "hefe1f62fg7d17g4687g8d33g08434e554546"
 data "Description" "h86aa6422g9094g4cb8g92ceg8ddd26695298"
-data "Properties" "ForceShowInCC"
 data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
-data "Boosts" ""
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "StatusImmunity(SG_Disease);StatusImmunity(SG_Frightened)"
 
 // ===BH_Specialized_Design.txt ===
 new entry "BH_Specialized_Design"
@@ -29,6 +31,7 @@ type  "PassiveData"
 data "DisplayName" "h24cb131egd047g4faegae15ge217f4a635cd"
 data "Description" "h74597db2gd877g4bd0ga0cag023826996ca2"
 data "Icon" "PassiveFeature_ExpertDivination"
+data "Properties" "Highlighted"
 data "Boosts" ""
 
 // ===BH_Mechanical_Comprehension.txt ===
@@ -37,6 +40,7 @@ type  "PassiveData"
 data "DisplayName" "heb39fd33geeb4g4df1g8d96ga67f04ebbbd7"
 data "Description" "ha24a25f7ge581g42c0g9d04g3ec97be6712e"
 data "Icon" "PassiveFeature_FocusedConjuration"
+data "Properties" "Highlighted"
 data "Boosts" ""
 
 // ===BH_Powerful_Build.txt ===
@@ -45,6 +49,7 @@ type  "PassiveData"
 data "DisplayName" "hd34edbafg8f44g4d01g8ef3g0616010466b9"
 data "Description" "h2fbcb42cg99bcg4d57gb1b0g90d33325d9c1"
 data "Icon" "PassiveFeature_Generic_Tactical"
+data "Properties" "Highlighted"
 data "Boosts" "CarryCapacityMultiplier(1.40)"
 
 
@@ -54,6 +59,7 @@ type  "PassiveData"
 data "DisplayName" "h51f4c727g4ac0g44begbf14gdea9d55704e1"
 data "Description" "hcd06304egb67bg4101ga10fge17e081d7698;1"
 data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
+data "Properties" "Highlighted"
 data "DescriptionParams" "DealDamage(1d4+StrengthModifier, Bludgeoning)"
 data "Boosts" "CharacterUnarmedDamage(1d4+StrengthModifier, Bludgeoning)"
 
@@ -62,5 +68,15 @@ new entry "BH_Light_Step"
 type  "PassiveData"
 data "DisplayName" "hffad4a22g6b10g4822gb364gabb372c5308b"
 data "Description" "h3e84cd99g0b20g44e5g9773g9f387dfa6cbf"
-data "Icon" "Spell_Conjuration_MistyStep"
-data "Boosts" ""
+data "Icon" "PassiveFeature_RelentlessEndurance"
+data "Properties" "Highlighted"
+data "Boosts" "Advantage(Skill, Stealth)"
+
+// ===BH_Skirmisher_Weaponry.txt ===
+new entry "BH_Skirmisher_Weaponry"
+type  "PassiveData"
+data "DisplayName" "hfb380d67g97b5g4e2cg8e14gb2ecb0e428c7"
+data "Description" "h3e52e528g588fg4891gb7a1gc3c1dd3910c0"
+data "Icon" "PassiveFeature_Drow_DrowWeaponTraining"
+data "Properties" "Highlighted;ForceShowInCC"
+data "Boosts" "Proficiency(Rapiers);Proficiency(Daggers);Proficiency(HandCrossbows)"

@@ -8,6 +8,10 @@
                     <attribute id="Passives" type="LSString" value="BH_StrengthBoost,BH_DexterityBoost,BH_ConstitutionBoost,BH_IntelligenceBoost,BH_WisdomBoost,BH_CharismaBoost"/>
                     <attribute id="UUID" type="guid" value="b6fa346c-aba3-486f-ace3-47971c692469"/>
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="BH_Proficiency_TestBFC,BH_Proficiency_Battleaxes,BH_Proficiency_Clubs,BH_Proficiency_Daggers,BH_Proficiency_Flails"/>
+                    <attribute id="UUID" type="guid" value="322c3087-649d-41ec-99ae-85e7c4293b59"/>
+                </node>
             </children>
         </node>
     </region>

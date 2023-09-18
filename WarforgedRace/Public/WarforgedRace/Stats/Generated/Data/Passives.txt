@@ -45,3 +45,232 @@ data "DisplayName" "h6c83537fg6358g41e0g8a18g32cc8316ced2_6"
 data "Description" "h441085efge3a5g4004gba8dgf2378e8986c8"
 data "Icon" ""
 data "Boosts" "Ability(Charisma, 1)"
+
+// === Weapon Proficiencies
+
+// === BH_Proficiency_TestBFC.txt ===
+new entry "BH_Proficiency_TestBFC"
+type "PassiveData"
+data "DisplayName" "h549cca93gf9e4g4525gbc17g7d7e8a6159c7;1"
+data "Description" "h6c83537fg6358g41e0g8a18g32cc8316ced2_6"
+data "BoostConditions" ""
+data "Boosts" "Proficiency(Battleaxes);Proficiency(Flails);Proficiency(Clubs)"
+
+// === BH_Proficiency_Battleaxes.txt ===
+new entry "BH_Proficiency_Battleaxes"
+type "PassiveData"
+data "DisplayName" "h549cca93gf9e4g4525gbc17g7d7e8a6159c7;1"
+data "Description" "hfe30431cgc831g46abg9924g43eb65e9c5de;3"
+data "BoostConditions" "not HasProficiency('MartialWeapons',context.Source) and not HasProficiency('Battleaxes')"
+data "Boosts" "Proficiency(Battleaxes)"
+
+// === BH_Proficiency_Clubs.txt ===
+new entry "BH_Proficiency_Clubs"
+type "PassiveData"
+data "DisplayName" "h12fb52b7g1f12g431bgb0f7g18df6273a49d;1"
+data "Description" "hc3dfaafaga86cg4a56g865fg408934e4d0d0;3"
+data "BoostConditions" "not HasProficiency('SimpleWeapons') and not HasProficiency('Clubs)"
+data "Boosts" "Proficiency(Clubs)"
+
+// === BH_Proficiency_Daggers.txt ===
+new entry "BH_Proficiency_Daggers"
+type "PassiveData"
+data "DisplayName" "he7aa1a00g9956g4657gbbf8g616fe6b1237d;1"
+data "Description" "hbf4614c9g38d5g45cagbb56g3fcc1b524c89;3"
+data "Boosts" "Proficiency(Daggers)"
+
+// === BH_Proficiency_Flails.txt ===
+new entry "BH_Proficiency_Flails"
+type "PassiveData"
+data "DisplayName" "h80c4fdf9g9b87g4a73g9b8ag466f132131f2;1"
+data "Description" "h16d4f00eg5d7bg40faga5c8g39fafbe956eb;1"
+data "Boosts" "Proficiency(Flails)"
+
+// === BH_Proficiency_Glaives.txt ===
+new entry "BH_Proficiency_Glaives"
+type "PassiveData"
+data "DisplayName" "h57b64413gadddg4086gb1a4g473d77bb3baa;1"
+data "Description" "h6504ebc0g05feg43d4gb821g478cdce15d27;3"
+data "Boosts" "Proficiency(Glaives)"
+
+// === BH_Proficiency_Greataxe.txt ===
+new entry "BH_Proficiency_Greataxe"
+type "PassiveData"
+data "DisplayName" "h40d67badg658fg462dgad72g9b59514cee62;1"
+data "Description" "hddbd4d8eg3dacg44fbgaf89gfe2a2e3d27f0;1"
+data "Boosts" "Proficiency(Greataxes)"
+
+// === BH_Proficiency_Greatclub.txt ===
+new entry "BH_Proficiency_Greatclub"
+type "PassiveData"
+data "DisplayName" "h4a784569g46ebg47a8gab7fg1bcf8d97e5a1;1"
+data "Description" "he280b205g64d6g408fgb2abg3194e0985008;1"
+data "Boosts" "Proficiency(Greatclubs)"
+
+// === BH_Proficiency_Greatswords.txt ===
+new entry "BH_Proficiency_Greatswords"
+type "PassiveData"
+data "DisplayName" "h53f7d040g8facg4a7eg91b9gfebf9e63ef7d;1"
+data "Description" "he8f8bb75gc292g47f7g8bb7gcdda61698eef;3"
+data "Boosts" "Proficiency(Greatswords)"
+
+// === BH_Proficiency_Halberds.txt ===
+new entry "BH_Proficiency_Halberds"
+type "PassiveData"
+data "DisplayName" "h9b4d0424g4f1cg4f2fg91d5g21b6e19f0a80;1"
+data "Description" "h294f1c21g286dg41f6ga17ag16c69fa99667;1"
+data "Boosts" "Proficiency(Halberds)"
+
+// === BH_Proficiency_HandCrossbows.txt ===
+new entry "BH_Proficiency_HandCrossbows"
+type "PassiveData"
+data "DisplayName" "hf2c74269g996ag4314gbb4bg26d95475f3ab;1"
+data "Description" "h1e78d7c3g45ebg407agbbedgc7cac7401a7f;3"
+data "Boosts" "Proficiency(HandCrossbows)"
+
+// === BH_Proficiency_Handaxes.txt ===
+new entry "BH_Proficiency_Handaxes"
+type "PassiveData"
+data "DisplayName" "h357eb3a4gc5deg43begb854g10d6a256305c;1"
+data "Description" "h486cf9a2g4c9bg480ag80a2g7bbfb7b03798;3"
+data "Boosts" "Proficiency(Handaxes)"
+
+// === BH_Proficiency_HeavyCrossbows.txt ===
+new entry "BH_Proficiency_HeavyCrossbows"
+type "PassiveData"
+data "DisplayName" "h2f3efd76gbf53g42acg8df7gc02255a60b5a;1"
+data "Description" "h6d93edadg5d14g4eafg9590gad2f53f65aed;3"
+data "Boosts" "Proficiency(HeavyCrossbows)"
+
+// === BH_Proficiency_Javelins.txt ===
+new entry "BH_Proficiency_Javelins"
+type "PassiveData"
+data "DisplayName" "h7da43727g99d3g4ca2ga333gd3c2f2f88213;1"
+data "Description" "he856a7feg6cfcg4336g9d2bg641922cb852b;3"
+data "Boosts" "Proficiency(Javelins)"
+
+// === BH_Proficiency_LightCrossbows.txt ===
+new entry "BH_Proficiency_LightCrossbows"
+type "PassiveData"
+data "DisplayName" "haf26ce43g14aag49fcga549g23d7e928c421;1"
+data "Description" "h30c9bce8g5452g4468g8177g0984a81ff204;3"
+data "Boosts" "Proficiency(LightCrossbows)"
+
+// === BH_Proficiency_LightHammers.txt ===
+new entry "BH_Proficiency_LightHammers"
+type "PassiveData"
+data "DisplayName" "h88a541f1gfc99g4cdeg9144g4641757a52ba;1"
+data "Description" "h9f9f0c08ge899g4d8bgb96fgffeb579d9a69;3"
+data "Boosts" "Proficiency(LightHammers)"
+
+// === BH_Proficiency_Longbows.txt ===
+new entry "BH_Proficiency_Longbows"
+type "PassiveData"
+data "DisplayName" "h3a7b439fg15fdg457fg97ccg6df6ed73f143;1"
+data "Description" "h6934d5feg61ffg4032g9fc0gce88179dd772;3"
+data "Boosts" "Proficiency(Longbows)"
+
+// === BH_Proficiency_Longswords.txt ===
+new entry "BH_Proficiency_Longswords"
+type "PassiveData"
+data "DisplayName" "h65f0fbe9g0933g44degbf2dgb0b78b9f3907;1"
+data "Description" "h77349fb1g8fb4g43f6g9783g350c74310a7d;3"
+data "Boosts" "Proficiency(Longswords)"
+
+// === BH_Proficiency_Maces.txt ===
+new entry "BH_Proficiency_Maces"
+type "PassiveData"
+data "DisplayName" "h4f6cb088gdedcg4668g8671g7194ae6f4438;1"
+data "Description" "h03ee37e6g1c93g4b5dga950g548a1fed471a;3"
+data "Boosts" "Proficiency(Maces)"
+
+// === BH_Proficiency_Mauls.txt ===
+new entry "BH_Proficiency_Mauls"
+type "PassiveData"
+data "DisplayName" "h3965ace0gc9ceg482bg804bg7e8eed68ecdc;1"
+data "Description" "h89df4c69g4797g4286gafadg940310f19f6a;1"
+data "Boosts" "Proficiency(Mauls)"
+
+// === BH_Proficiency_Morningstars.txt ===
+new entry "BH_Proficiency_Morningstars"
+type "PassiveData"
+data "DisplayName" "h611f85cbg244bg4448gbfcbg7f675166cadb;1"
+data "Description" "h91349183g2040g4abfg8654g51affba37725;1"
+data "Boosts" "Proficiency(Morningstars)"
+
+// === BH_Proficiency_Pikes.txt ===
+new entry "BH_Proficiency_Pikes"
+type "PassiveData"
+data "DisplayName" "hb56cfb0cg97aag445cg9227gd7f1206db8aa;1"
+data "Description" "h0a7a9265g9117g4fdbg886bg2e97d58f5634;1"
+data "Boosts" "Proficiency(Pikes)"
+
+// === BH_Proficiency_Quarterstaffs.txt ===
+new entry "BH_Proficiency_Quarterstaffs"
+type "PassiveData"
+data "DisplayName" "h463a60edgf991g42cag994fg19efd932650b;1"
+data "Description" "h2af1d2ccg505bg4943g8dd9gb9e07a9eb2be;3"
+data "Boosts" "Proficiency(Quarterstaffs)"
+
+// === BH_Proficiency_Rapiers.txt ===
+new entry "BH_Proficiency_Rapiers"
+type "PassiveData"
+data "DisplayName" "h6ce5a73dgd5b3g4d54gab01g4d24c69ed7d3;1"
+data "Description" "hc5a0e0a3g2ef1g4f3bg95fag2a6f202691e3;3"
+data "Boosts" "Proficiency(Rapiers)"
+
+// === BH_Proficiency_Scimitars.txt ===
+new entry "BH_Proficiency_Scimitars"
+type "PassiveData"
+data "DisplayName" "h6d935802g598eg44c4g8355ga70d9c273201;1"
+data "Description" "h75726101g56f4g4461g843cgc9b54c8a334a;3"
+data "Boosts" "Proficiency(Scimitars)"
+
+// === BH_Proficiency_Shortbows.txt ===
+new entry "BH_Proficiency_Shortbows"
+type "PassiveData"
+data "DisplayName" "hd7bde58cga7d4g4771gb477g35ebbff2794b;1"
+data "Description" "h812809c0gf4c8g415dg906cg222d6d558798;3"
+data "Boosts" "Proficiency(Shortbows)"
+
+// === BH_Proficiency_Shortswords.txt ===
+new entry "BH_Proficiency_Shortswords"
+type "PassiveData"
+data "DisplayName" "h80d9cabbg6e5cg4025g8d01g7b7854ebf330;1"
+data "Description" "h4066bf96g50a6g4ebeg811fg1d4e6f02e89f;3"
+data "Boosts" "Proficiency(Shortswords)"
+
+// === BH_Proficiency_Sickles.txt ===
+new entry "BH_Proficiency_Sickles"
+type "PassiveData"
+data "DisplayName" "h1fee8752gc423g459cg888cg8ade64ea9ad9;1"
+data "Description" "hec37ec8eg8edcg44f2g864dg9652ae5b3aa4;3"
+data "Boosts" "Proficiency(Sickles)"
+
+// === BH_Proficiency_Spears.txt ===
+new entry "BH_Proficiency_Spears"
+type "PassiveData"
+data "DisplayName" "hcbc92e98ga601g44d0gbe92g9d9ebc0c4c15;1"
+data "Description" "h1078f828g5111g4450gb844g2469e67aa8f2;3"
+data "Boosts" "Proficiency(Spears)"
+
+// === BH_Proficiency_Tridents.txt ===
+new entry "BH_Proficiency_Tridents"
+type "PassiveData"
+data "DisplayName" "hf920fc9cgc9ebg4b07ga9d7gdc5963a9068a;1"
+data "Description" "h195c90c5g7f5cg435cgb8e4gc12d10dc4cad;1"
+data "Boosts" "Proficiency(Tridents)"
+
+// === BH_Proficiency_Warhammers.txt ===
+new entry "BH_Proficiency_Warhammers"
+type "PassiveData"
+data "DisplayName" "h75468d45g9983g4848gbfa9gad9a8c7c8804;1"
+data "Description" "h90b5b383g0ec5g4d15g86f6g4510b851a753;3"
+data "Boosts" "Proficiency(Warhammers)"
+
+// === BH_Proficiency_Warpicks.txt ===
+new entry "BH_Proficiency_Warpicks"
+type "PassiveData"
+data "DisplayName" "hb08da8a6g06bbg4bedga2ccg17762adc5aa1;1"
+data "Description" "h3ff40661g2308g4fadgb4e5g0c43f9defd5e;1"
+data "Boosts" "Proficiency(Warpicks)"

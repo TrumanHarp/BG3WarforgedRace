@@ -9,22 +9,26 @@
 	<content contentuid="hb5a0fe09gcccdg4ca6gb4a0g5a9ab0201df6" version="1">Skirmisher Warforged</content>
 	<content contentuid="h77f66d01gb364g4c9bg80e0g62c455113c16" version="1">Skirmisher Warforged are built to quickly and quietly scout a battle and outmaneuver their oponents. They are nimble and designed for speed.</content>
 	<content contentuid="hd658f41eg5a77g4c4dgac19gf6b0680d9380" version="1">Integrated Protection</content>
-	<content contentuid="hb90b0c2eg84fbg4f68gb714g68e5cbc42841" version="1">You gain a +1 bonus to Armor Class.</content>
+	<content contentuid="hb90b0c2eg84fbg4f68gb714g68e5cbc42841" version="1">You gain a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
 	<content contentuid="hfffe5efdgf37bg45adg8d8egedcb45308321" version="1">Constructed Resilience</content>
-	<content contentuid="h1688aedbg0cd6g4986g9795g850c10d55388" version="1">You have advantage on saving throws against being poisoned, and have resistance to poison damage.</content>
+	<content contentuid="h1688aedbg0cd6g4986g9795g850c10d55388" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being poisoned, and are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to poison damage.</content>
 	<content contentuid="hefe1f62fg7d17g4687g8d33g08434e554546" version="1">Forged Disposition</content>
-	<content contentuid="h86aa6422g9094g4cb8g92ceg8ddd26695298" version="1">You are immune to disease, and magic can't put you to sleep.</content>
+	<content contentuid="h86aa6422g9094g4cb8g92ceg8ddd26695298" version="1">You are &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to disease, and cannot be &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
 	<content contentuid="h24cb131egd047g4faegae15ge217f4a635cd" version="1">Specialized Design</content>
-	<content contentuid="h74597db2gd877g4bd0ga0cag023826996ca2" version="1">Increase one ability score by 1. Gain a skill proficiency and weapon proficiency of your choice.</content>
+	<content contentuid="h74597db2gd877g4bd0ga0cag023826996ca2" version="1">Increase an Ability Score by 1. Gain two &lt;LSTag Tooltip="Skill"&gt;Skill&lt;/LSTag&gt; &lt;LSTag Tooltip="Proficiency"&gt;Proficiencies&lt;/LSTag&gt; of your choice.</content>
 	<content contentuid="heb39fd33geeb4g4df1g8d96ga67f04ebbbd7" version="1">Mechanical Comprehension</content>
-	<content contentuid="ha24a25f7ge581g42c0g9d04g3ec97be6712e" version="1">Gain Darkvision and cast Detect Thoughts once per long rest.</content>
+	<content contentuid="ha24a25f7ge581g42c0g9d04g3ec97be6712e" version="1">Gain a cantrip, and Cast Detect Thoughts once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="hd34edbafg8f44g4d01g8ef3g0616010466b9" version="1">Powerful Build</content>
-	<content contentuid="h2fbcb42cg99bcg4d57gb1b0g90d33325d9c1" version="1">Gain +1 Strength. Increases carry capacity by 40%.</content>
+	<content contentuid="h2fbcb42cg99bcg4d57gb1b0g90d33325d9c1" version="1">Gain +1 &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;. Increases &lt;LSTag Tooltip="CarryWeight"&gt;Carrying capacity&lt;/LSTag&gt; by 40%.</content>
 	<content contentuid="h51f4c727g4ac0g44begbf14gdea9d55704e1" version="1">Iron Fists</content>
 	<content contentuid="hcd06304egb67bg4101ga10fge17e081d7698" version="1">When you make an unarmed strike, deal an additional [1] bludgeoning damage.</content>
 	<content contentuid="hffad4a22g6b10g4822gb364gabb372c5308b" version="1">Light Step</content>
-	<content contentuid="h3e84cd99g0b20g44e5g9773g9f387dfa6cbf" version="1">Gain +1 Dexterity. Add your proficiency bonus to stealth checks.</content>
-	<content contentuid="h758a2bd7g45cfg4968gbcc6g7406e4d147f5" version="1">As an Envoy Warforged, you may choose an ability score to increase by +1. This increase applies after the ability point buy.</content>
+	<content contentuid="h3e84cd99g0b20g44e5g9773g9f387dfa6cbf" version="1">Gain +1 &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;. Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt; checks.</content>
+	<content contentuid="h758a2bd7g45cfg4968gbcc6g7406e4d147f5" version="1">As an Envoy Warforged, you may choose an Ability Score to increase by +1. This increase applies after the Ability point buy.</content>
 	<content contentuid="h7b97f4a0g2fc4g49bdgacb9g6cb67dcaef03" version="1">Envoy Ability Boost</content>
+	<content contentuid="hfb380d67g97b5g4e2cg8e14gb2ecb0e428c7" version="1">Skirmisher Weapon Training</content>
+	<content contentuid="h3e52e528g588fg4891gb7a1gc3c1dd3910c0" version="1">You have &lt;LSTag Tooltip="WeaponProficiency"&gt;Proficiency&lt;/LSTag&gt; with Daggers, Rapiers, and Hand Crosbows.</content>
+	<content contentuid="hed539740g32bfg4847gb963gf411f9edc6b3" version="1">Constructed Form</content>
+	<content contentuid="h95e9cdc8g1f9eg4efbg8808g83d8ea1ce90f" version="1">As an Envoy Warforged, you may choose a specialized cantrip to shape your adaptive form. This cantrip doesn't use &lt;LSTag Tooltip="SpellSlot"&gt;spell slots&lt;/LSTag&gt; and can be cast at will.</content>
 	<content contentuid="" version="1"></content>
 </contentList>

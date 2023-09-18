@@ -5,7 +5,7 @@
     <node id="root">
       <children>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0);StatusImmunity(SG_Disease);StatusImmunity(SLEEP)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="BH_Warforged"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Steel_Construction;BH_Constructed_Resilience;BH_Forged_Disposition"/>
@@ -18,9 +18,9 @@
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="BH_Warforged_Envoy"/>
           <attribute id="Boosts" type="LSString" value=""/>
-          <attribute id="PassivesAdded" type="LSString" value="Darkvision;BH_Specialized_Design;BH_Mechanical_Comprehension"/>
+          <attribute id="PassivesAdded" type="LSString" value="Darkvision;BH_Specialized_Design"/> <!-- ;BH_Mechanical_Comprehension-->
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value="SelectPassives(b6fa346c-aba3-486f-ace3-47971c692469,1,BH_AbilityBoost);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,1);AddSpells(f4bb7ffe-cd70-42cb-925b-a676e2eb11ca,,,,AlwaysPrepared)"/> <!--SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,1,1,FeatASI);SelectPassives(f21e6b94-44e8-4ae0-a6f1-0c81abac03a2,1,WeaponMasterProficiencies);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,,3);-->
+          <attribute id="Selectors" type="LSString" value="SelectPassives(b6fa346c-aba3-486f-ace3-47971c692469,1,BH_AbilityBoost);SelectSkills(f974ebd6-3725-4b90-bb5c-2b647d41615d,2,BH_EnvoySkills);SelectSpells(4eab5d85-501d-4c37-9add-8591aece7998,1,0,BH_Envoy_Cantrip,Charisma);AddSpells(f4bb7ffe-cd70-42cb-925b-a676e2eb11ca,,Charisma,,AlwaysPrepared,UntilRest)"/> <!--SelectPassives(322c3087-649d-41ec-99ae-85e7c4293b59,1,BH_WeaponProficiency);-->
           <attribute id="TableUUID" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
           <attribute id="UUID" type="guid" value="15711f95-ee11-43be-b1bb-d09b8a100ce7"/>
         </node>
@@ -30,7 +30,7 @@
           <attribute id="Boosts" type="LSString" value="Ability(Strength, 1)"/>
           <attribute id="PassivesAdded" type="LSString" value="BH_Powerful_Build;BH_Iron_Fists"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
-          <attribute id="Selectors" type="LSString" value=""/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(eec1d96d-65b7-4f53-8f51-f89e81e04d19,,Charisma,,AlwaysPrepared)"/>
           <attribute id="TableUUID" type="guid" value="2f1dc338-1b67-4f84-9898-b83319680bd2"/>
           <attribute id="UUID" type="guid" value="7b47d8cd-8b33-4047-af28-09e399637ace"/>
         </node>
@@ -38,7 +38,7 @@
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="BH_Warforged_Skirmisher"/>
           <attribute id="Boosts" type="LSString" value="Ability(Dexterity, 1);ActionResource(Movement,10.5,0)"/>
-          <attribute id="PassivesAdded" type="LSString" value="BH_Light_Step"/>
+          <attribute id="PassivesAdded" type="LSString" value="BH_Light_Step;BH_Skirmisher_Weaponry"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Selectors" type="LSString" value=""/>
           <attribute id="TableUUID" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
