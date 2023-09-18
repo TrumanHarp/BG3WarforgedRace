@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Persuasion;Survival;Investigation;Performance;History;Religion;Perception;Stealth;SleightOfHand;Athletics;Acrobatics;Deception;Intimidation;AnimalHandling;Arcana;Insight;Medicine;Nature"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="SelectorId" type="LSString" value="BH_EnvoySkills"/>
+                    <attribute id="TableUUID" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
+                    <attribute id="UUID" type="guid" value="692c1b19-a777-4f6d-ae41-44a9460445b6"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
