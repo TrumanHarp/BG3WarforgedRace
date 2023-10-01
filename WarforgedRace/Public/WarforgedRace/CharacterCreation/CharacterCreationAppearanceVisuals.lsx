@@ -6,6 +6,18 @@
             <children>
                 <!--BELOW ARE Standard Face, Hair, etc selections. They are from Shared/Public/Shared/CharacterCreation/CharacterCreationAppearanceVisuals.lsx-->
                 <!--Genitals are found at the bottom, starting near line 900.-->
+                <!--WAR_M_A-->
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DefaultSkinColor" type="guid" value="fbfbdac7-b88b-840d-2601-e37aa45663ae"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha5bebadfg8cbcg4455g9c75g4b28281c43da" version="3"/>
+                    <attribute id="RaceUUID" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="e6e06ff6-17d9-4c6d-8172-fc8677f09a76"/>
+                    <attribute id="VisualResource" type="guid" value="f47cca34-71ef-44af-a7d8-aab4b92a90fb"/>
+                </node>
+                <!--Vanilla Elf Heads -->
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
