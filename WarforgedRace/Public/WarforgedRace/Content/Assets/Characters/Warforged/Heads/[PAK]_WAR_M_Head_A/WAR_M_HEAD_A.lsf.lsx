@@ -15,10 +15,10 @@
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/M_FR_TIF_A_Base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/WAR_M_NKD_Head_A_Base.GR2" />
 					when copying a path make sure to change \ to /
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/M_FR_TIF_A_Base.Dummy_Root.0" /> 
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/WAR_M_NKD_Head_A_Base.Dummy_Root.0" /> 
 					Same Path just without .GR2 
 					Do not remove from this path name .Dummy_Root.0
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758165" />
@@ -1577,7 +1577,7 @@
 					<attribute id="ID" type="FixedString" value="df3fdd29-bb61-433b-bfe6-116ccd1300dd" /> Mass Replace this UUID in this file if you intend to have custom textures if not you can copy the MaterialBank and TextureBank from the vanilla head you want to use
 					there should be instances in this file
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="M_FR_TIF_A" />
+					<attribute id="Name" type="LSString" value="WAR_M_NKD_Head_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
@@ -3501,7 +3501,7 @@
 					<attribute id="ID" type="FixedString" value="1ead6d20-5298-4d26-ae19-7c8934b21531" /> replace all in this file with a new UUID. should be total 5 in here
 					<attribute id="Name" type="LSString" value="FR_Head_TIF_Head_A_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/P4_TIF/FR_Head_TIF_Head_A_HMVY.DDS" /> Path to your HMVY Texture
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/FR_Head_TIF_Head_A_HMVY.DDS" /> Path to your HMVY Texture
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="FR_Head_TIF_Head_A_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -3515,7 +3515,7 @@
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="FR_Head_TIF_Head_A_BM" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/P4_TIF/FR_Head_TIF_Head_A_BM.DDS" /> Path to your BM Texture
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/FR_Head_TIF_Head_A_BM.DDS" /> Path to your BM Texture
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="FR_Head_TIF_Head_A_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -3528,7 +3528,7 @@
 					<attribute id="ID" type="FixedString" value="6195ce7b-ac00-40bb-b987-b0b045b0eaba" /> new UUID. in this file should be 4 references
 					<attribute id="Name" type="LSString" value="FR_Head_TIF_Head_A_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/P4_TIF/FR_Head_TIF_Head_A_NM.DDS" /> Path to your NM Texture
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/FR_Head_TIF_Head_A_NM.DDS" /> Path to your NM Texture
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="FR_Head_TIF_Head_A_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -3541,7 +3541,7 @@
 					<attribute id="ID" type="FixedString" value="719341ba-0dc9-49c2-bf5d-a5e802d6f621" /> new UUID. in this file should be 5 references
 					<attribute id="Name" type="LSString" value="FR_Head_TIF_Head_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/P4_TIF/FR_Head_TIF_Head_A_CLEA.DDS" /> Path to your CLEA Texture
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/FR_Head_TIF_Head_A_CLEA.DDS" /> Path to your CLEA Texture
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="FR_Head_TIF_Head_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -3554,7 +3554,7 @@
 					<attribute id="ID" type="FixedString" value="fb8c13cc-5673-422f-ab7c-3b6460ae23ed" /> new UUID. in this file should be 5 references
 					<attribute id="Name" type="LSString" value="FR_Head_TIF_Head_A_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/P4_TIF/FR_Head_TIF_Head_A_MSK.DDS" /> Path to your MSK Texture
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/FR_Head_TIF_Head_A_MSK.DDS" /> Path to your MSK Texture
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="FR_Head_TIF_Head_A_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -3595,7 +3595,7 @@
 	<region id="VisualBank">
 		<node id="VisualBank">
 			<children>
-				<node id="Resource"> <!-- M_FR_TIF_A -->
+				<node id="Resource"> <!-- WAR_M_NKD_Head_A -->
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b97df95a-e271-dd4f-ea7e-b35a185a5522" />
@@ -3607,16 +3607,16 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="f47cca34-71ef-44af-a7d8-aab4b92a90fb" /> Unique UUID but same as the one you give to VisualResource in CharacterCreationAppearanceVisuals
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="M_FR_TIF_A" />
+					<attribute id="Name" type="LSString" value="WAR_M_NKD_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
 					<attribute id="SkeletonResource" type="FixedString" value="556c6a18-543e-98e4-ef53-52f8656070a0" /> same as your Unique UUID in your SkeletonResource or the vanilla skeleton you're using
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/M_FR_TIF_A.GR2" /> Path to your .GR2
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/WAR_M_NKD_Head_A.GR2" /> Path to your .GR2
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/M_FR_TIF_A.Dummy_Root.0" /> Same Path just without .GR2 
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Warforged/_Male/Resources/WAR_M_NKD_Head_A.Dummy_Root.0" /> Same Path just without .GR2 
 					Do not remove from this path name .Dummy_Root.0
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children> Copy from here
@@ -3638,119 +3638,119 @@
 						<node id="Objects"> The Below is the order of your meshes same as Export Order you used in Blender. Most of the time safe to keep this the same unless you're adding extra meshes.
 							<attribute id="LOD" type="uint8" value="0" /> this is what LOD it is
 							<attribute id="MaterialID" type="FixedString" value="df3fdd29-bb61-433b-bfe6-116ccd1300dd" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mesh.0" /> the .0 is the Export Order except here it starts from 0 not 1 like in the blender plugin
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mesh.0" /> the .0 is the Export Order except here it starts from 0 not 1 like in the blender plugin
 						</node> Name of the Mesh part.
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
 							these point to the material you want to use
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mouth_Interior_Fangs_Mesh.1" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mouth_Interior_Fangs_Mesh.1" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
 							for Tieflings make sure to use the Tiefling eye material UUID in order to get the glow ring to their eyes
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Eyes_Mesh.2" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Eyes_Mesh.2" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="df3fdd29-bb61-433b-bfe6-116ccd1300dd" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Ears_Mesh.3" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Ears_Mesh.3" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="873e5acb-1bc5-28df-7fc9-c9e25cf8bb84" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Tearline_Mesh.4" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Tearline_Mesh.4" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Eyelashes_Mesh.5" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Eyelashes_Mesh.5" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="b09f1893-d49d-483e-2dc7-0a989741aa9e" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Eyeshadow_Mesh.6" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Eyeshadow_Mesh.6" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Scalp_Mesh.7" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Scalp_Mesh.7" />
 						</node> Now if you're happy to keep it at LOD 0 only you can stop here and remove the rest
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" /> LOD 1 Start
 							<attribute id="MaterialID" type="FixedString" value="3145000c-21cf-74ec-fcfe-d891ad5b8e00" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mesh_LOD1.8" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mesh_LOD1.8" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="f3283bba-6025-dd5e-7a68-36fa639db970" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mouth_Interior_Fangs_Mesh_LOD1.9" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mouth_Interior_Fangs_Mesh_LOD1.9" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Eyes_Mesh_LOD1.10" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Eyes_Mesh_LOD1.10" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="3145000c-21cf-74ec-fcfe-d891ad5b8e00" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Ears_Mesh_LOD1.11" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Ears_Mesh_LOD1.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Scalp_Mesh_LOD1.12" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Scalp_Mesh_LOD1.12" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" /> LOD 2 Start
 							<attribute id="MaterialID" type="FixedString" value="116840d7-270b-9f50-faa3-a4bc6772947b" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mesh_LOD2.13" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mesh_LOD2.13" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="57fab18d-00a6-4dae-a14c-340f24611810" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Eyes_Mesh_LOD2.14" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Eyes_Mesh_LOD2.14" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="116840d7-270b-9f50-faa3-a4bc6772947b" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Ears_Mesh_LOD2.15" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Ears_Mesh_LOD2.15" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Scalp_Mesh_LOD2.16" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Scalp_Mesh_LOD2.16" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" /> LOD 3 Start
 							<attribute id="MaterialID" type="FixedString" value="116840d7-270b-9f50-faa3-a4bc6772947b" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mesh_LOD3.17" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mesh_LOD3.17" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
 							<attribute id="MaterialID" type="FixedString" value="116840d7-270b-9f50-faa3-a4bc6772947b" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Ears_Mesh_LOD3.18" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Ears_Mesh_LOD3.18" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="3" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Scalp_Mesh_LOD3.19" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Scalp_Mesh_LOD3.19" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" /> LOD 4 Start
 							<attribute id="MaterialID" type="FixedString" value="116840d7-270b-9f50-faa3-a4bc6772947b" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mesh_LOD4.20" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mesh_LOD4.20" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
 							<attribute id="MaterialID" type="FixedString" value="116840d7-270b-9f50-faa3-a4bc6772947b" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Ears_Mesh_LOD4.21" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Ears_Mesh_LOD4.21" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
 							<attribute id="MaterialID" type="FixedString" value="abe754c6-9361-2f35-0a07-1e41d4890d98" />
-							<attribute id="ObjectID" type="FixedString" value="M_FR_TIF_A.M_FR_TIF_A_Mesh_LOD4.22" />
+							<attribute id="ObjectID" type="FixedString" value="WAR_M_NKD_Head_A.WAR_M_NKD_Head_A_Mesh_LOD4.22" />
 						</node>
 					</children>
 				</node>
