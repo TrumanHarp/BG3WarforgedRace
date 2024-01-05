@@ -66,13 +66,13 @@
 					</children>
 				</node>
                 <node id="GameObjects">
-					<attribute id="MapKey" type="FixedString" value="1a011a97-a8fa-4856-b21e-e50943302ecc" />
+					<attribute id="MapKey" type="FixedString" value="1a011a97-a8fa-4856-b21e-e50943302ecc" />  <!--Mapkey of Base elf male strong 0549a4e5-10f7-42b4-a8a3-74400f2fae07-->
 					<attribute id="Name" type="LSString" value="BH_Warforged_Male_Player_Strong" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="514f4584-44f7-40f8-a7e9-e6a44028ce5b" />
 					<attribute id="Icon" type="FixedString" value="dbe45e58-e009-91ae-91f1-e5311cbef090-_(Icon_Human_Male_Strong)" />
-					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-9ea9-298e38cd111a" />
+					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />   <!-- was e39505f7-f576-4e70-9ea9-298e38cd111a -->
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="58f907a5-c183-4453-a733-b22e9f9c7c85" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<children>
@@ -121,7 +121,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="ParentTemplateId" type="FixedString" value="a8a5155e-71b1-4ca3-9260-4802f5aa7880" />
 					<attribute id="Icon" type="FixedString" value="eb370ddf-f7a4-4349-116e-f489556bab1d-_(Icon_Human_Female_Strong)" />
-					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-9bb3-f38b0fa1548b" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />   <!--47c0315c-7dc6-4862-9bb3-f38b0fa1548b-->
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e3c15d18-ea88-4bc8-93e9-e1604d248bd5" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Female_Strong" />
 					<children>
