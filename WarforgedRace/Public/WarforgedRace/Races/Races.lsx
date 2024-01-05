@@ -13,7 +13,7 @@
                     <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <!--<attribute id="ParentGuid" type="guid" value="84ddccc7-653e-4236-84c4-ca2f5aac719a"/> -->
                     <attribute id="ProgressionTableUUID" type="guid" value="88846a0c-429e-406e-9c51-da2b518fee36"/>
-                    <attribute id="RaceSoundSwitch" type="FixedString" value="AdamantineGolem"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/> <!--AdamantineGolem-->
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Humans"/>
                     <attribute id="UUID" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d"/>
                      <children>
@@ -2282,7 +2282,7 @@
                     <attribute id="Name" type="FixedString" value="BH_Warforged_Envoy"/>
                     <attribute id="ParentGuid" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="c832688d-0cfb-4227-93a2-31da4175d4a7"/>
-                    <attribute id="RaceSoundSwitch" type="FixedString" value="Construct"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/> <!--"Construct-->
                     <attribute id="UUID" type="guid" value="dea38e8b-4d47-4a2f-8a5b-e4bdfbd4a6e2"/>
                     <children>
                         <node id="Tags">
@@ -2297,7 +2297,7 @@
                     <attribute id="Name" type="FixedString" value="BH_Warforged_Juggernaut"/>
                     <attribute id="ParentGuid" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="2f1dc338-1b67-4f84-9898-b83319680bd2"/>
-                    <attribute id="RaceSoundSwitch" type="FixedString" value="Construct"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/>
                     <attribute id="UUID" type="guid" value="c43d2527-f1ff-4d2d-b662-663680a6b430"/>
                     <children>
                         <node id="Tags">
@@ -2312,7 +2312,7 @@
                     <attribute id="Name" type="FixedString" value="BH_Warforged_Skirmisher"/>
                     <attribute id="ParentGuid" type="guid" value="a35c3edc-a093-40b7-af5f-f13e698ee74d"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="1a234382-88d5-4fa7-b3bc-e82973d2c5bb"/>
-                    <attribute id="RaceSoundSwitch" type="FixedString" value="Construct"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/>
                     <attribute id="UUID" type="guid" value="30fc3cd6-e296-49d3-a081-200a3276f6dc"/>
                     <children>
                         <node id="Tags">
